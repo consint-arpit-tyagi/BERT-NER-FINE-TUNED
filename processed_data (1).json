@@ -1,0 +1,2563 @@
+[
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "Republic of Sudan",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "dubil",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Okayrill",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Gilagenil Gagarl",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Sudan Medical Specialization Board",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "SMSB",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "03202321",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "01.18.2007",
+                "Label": "DATE"
+            },
+            {
+                "Text": "ZISHAAN MAHGOUB ZIADA MOHAMED",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Monday\n10, January, 2003\n05, Safar,1432H",
+                "Label": "DATE"
+            },
+            {
+                "Text": "Helme",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Dr.",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Hamad A.H. El-Turabi",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Dr.",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Elsheikh Elsiddig Badr",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Academic",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Secretary",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Secretary General",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Prof.",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Eltayeb Abd El Rahman Ali",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "President",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "30.01.2018",
+                "Label": "DATE"
+            },
+            {
+                "Text": "academicsecreary@smsb.gov.sd",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "++249(83)798583",
+                "Label": "OTHER"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "MIDWIFERY\nSECURITY",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Reg",
+                "Label": "OTHER"
+            },
+            {
+                "Text": ". RAEN 2786",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "NIGERIA\nNURSING AND MIDWIFERY COUNCIL OF NIGERIA",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Amaechi Udoka",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Florence\nPost Basic A & E Nursing",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "NOH",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Igbobi",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Lagos State School",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Nursing and Midwifery\nCouncil of Nigeria",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "November 2022",
+                "Label": "DATE"
+            },
+            {
+                "Text": "27th February, 2023",
+                "Label": "DATE"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "1069\nID",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "76",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "fattion",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "22",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "2024",
+                "Label": "DATE"
+            },
+            {
+                "Text": "Malaviya National Institute of Technology",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Jaipur",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "Senate",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "NIKKI LIM",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Jaipur",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "Republic of India",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "19th January 2015",
+                "Label": "DATE"
+            },
+            {
+                "Text": "slive JuBhat\nAdrich",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Director",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Senate",
+                "Label": "ORGANIZATION"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "C22\nProfessional Regulation Commission",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "www.prc.gov.ph",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "ZAMORA",
+                "Label": "PERSON"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "Republic",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "of",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "the Philippines",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "PROFESSIONAL REGULATION COMMISSION\nPROFESSIONAL IDENTIFICATION CARD",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "MUHAJIL",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "FIRST",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "JENNIFER\nMIDDLE",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "AIDIL",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "0342428",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "10/01/2001",
+                "Label": "DATE"
+            },
+            {
+                "Text": "09/28/2027",
+                "Label": "DATE"
+            },
+            {
+                "Text": "NURSE\nProfessional Regulation Commission",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "www.prc.gov.ph",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "ZAMORA",
+                "Label": "PERSON"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "REGULATION\nREPUBLIC OF THE PHILIPPINES\nSECURITY\nPROFESSIONAL REGULATION COMMISSION\ns\nPROFESSIONAL IDENTIFICATION CARD\nPILIPIHAN\nOF\nSECURITY",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "THE\nApelyido",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "GURO\nPangalan",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "ADAWIYAH\nPanggitnang Apelyido",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "CURO",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "0864889",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "07/21/2015",
+                "Label": "DATE"
+            },
+            {
+                "Text": "05/18/2027",
+                "Label": "DATE"
+            },
+            {
+                "Text": "NURSE",
+                "Label": "LOCATION"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "Republic of the Philippines",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "0454",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "PROFESSIONAL REGULATION COMMISSION",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "DEL ROSARIO",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "FIRST NAME",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "MARK JOHN\nMIDDLE",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "GARCIA",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "0706993",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "09/08/2011",
+                "Label": "DATE"
+            },
+            {
+                "Text": "12/08/2027",
+                "Label": "DATE"
+            },
+            {
+                "Text": "NURSE",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "23",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Professional Regulation Commission",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "www.prc.gov.ph",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "ZAMORA",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "James",
+                "Label": "PERSON"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "Republic of the Philippines\nand",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "PROFESSIONAL REGULATION COMMISSION",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "IDENTIFICATION CARD",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "DEL ROSARIO",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "FIRST NAME",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "MARK JOHN\nMIDDLE",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "GARCIA",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "0706993",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "09/08/2011",
+                "Label": "DATE"
+            },
+            {
+                "Text": "12/08/2027",
+                "Label": "DATE"
+            },
+            {
+                "Text": "NURSE",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "23",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Professional Regulation Commission",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "www.prc.gov.ph",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "A. ZAMORA",
+                "Label": "PERSON"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "Republic of the Philippines\nPROFESSIONAL REGULATION COMMISSION\nPROFESSIONAL IDENTIFICATION CARD",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "VASQUEZ",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "FIRST",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "DELLOSA",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "0894523",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "07/05/2017",
+                "Label": "DATE"
+            },
+            {
+                "Text": "12/11/2026",
+                "Label": "DATE"
+            },
+            {
+                "Text": "NURSE",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "#23",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "Professional Regulation Commission",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "www.prc.gov.ph",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "20",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "ZAMORA",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Republic of the Philippines\nProfessional Regulation Commission",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "National Capital",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Region",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "Moravia",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "HENYLIZA L. DARACAN",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "P75.00",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "2024-05-08315033",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "05/13/2024",
+                "Label": "DATE"
+            },
+            {
+                "Text": "JAINAR AGUSTIN",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "05-15-2024",
+                "Label": "DATE"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "REGULATION\nREPUBLIC OF THE PHILIPPINES\nPROFESSIONAL REGULATION COMMISSION\nPROP SECURITY",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "REPUBLIKA",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "PILIPINAS",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "PHIL\nTHE\nApelyido",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "SANUSI\nPangalan",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "AISHA MEDINA\nPanggitnang",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "KASARAL",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "1001838",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "05/24/2024",
+                "Label": "DATE"
+            },
+            {
+                "Text": "07/11/2027",
+                "Label": "DATE"
+            },
+            {
+                "Text": "NURSE",
+                "Label": "LOCATION"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "23\nProfessional Regulation Commission",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "www.prc.gov.ph",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "A. ZAMORA",
+                "Label": "PERSON"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "23\nProfessional Regulation Commission",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "www.prc.gov.ph",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "CHARITO A. ZAMORA",
+                "Label": "PERSON"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "C22\nProfessional Regulation Commission",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "www.prc.gov.ph",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "CHARITO A. ZAMORA",
+                "Label": "PERSON"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "Republic of the Philippines",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "PROFESSIONAL REGULATION COMMISSION",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "LANGI",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "FIRST NAME",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "NORHANA\n16",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "MANIMBAC",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "0988425",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "02/02/2024",
+                "Label": "DATE"
+            },
+            {
+                "Text": "08/12/2027",
+                "Label": "DATE"
+            },
+            {
+                "Text": "NURSE",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "CS\nCamScanner",
+                "Label": "PERSON"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": []
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "Republic of the Philippines",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "0454",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "PROFESSIONAL REGULATION COMMISSION",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "DEL ROSARIO",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "FIRST NAME",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "MARK JOHN\nMIDDLE",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "GARCIA",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "0706993",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "09/08/2011",
+                "Label": "DATE"
+            },
+            {
+                "Text": "12/08/2027",
+                "Label": "DATE"
+            },
+            {
+                "Text": "NURSE",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "23",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Professional Regulation Commission",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "www.prc.gov.ph",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "ZAMORA",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "James",
+                "Label": "PERSON"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": []
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "Republic of the Philippines\nPROFESSIONAL REGULATION COMMISSION\nPROFESSIONAL IDENTIFICATION CARD",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "HASAN",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "FIRST NAME",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "SITTI RADZMA\nMIDDLE",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "HADJAIL",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "0971997",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "09/04/2023",
+                "Label": "DATE"
+            },
+            {
+                "Text": "09/27/2026",
+                "Label": "DATE"
+            },
+            {
+                "Text": "NURSE",
+                "Label": "PERSON"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "C22\nProfessional Regulation Commission",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "www.prc.gov.ph",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "ZAMORA",
+                "Label": "PERSON"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "Republic of the Philippines",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "PROFESSIONAL REGULATION COMMISSION\nPROFESSIONAL IDENTIFICATION CARD",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "DEL ROSARIO",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "FIRST",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "MARK JOHN\nMIDDLE",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "GARCIA",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "0706993",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "09/08/2011",
+                "Label": "DATE"
+            },
+            {
+                "Text": "12/08/2027",
+                "Label": "DATE"
+            },
+            {
+                "Text": "NURSE",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "23",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Professional Regulation Commission",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "www.prc.gov.ph",
+                "Label": "OTHER"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "Republic of the Philippines",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "PROFESSIONAL REGULATION COMMISSION\nPROFESSIONAL IDENTIFICATION CARD",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "HASAN",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "FIRST",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "SITTI RADZMA\nMIDDLE",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "HADJAIL",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "0971997",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "09/04/2023",
+                "Label": "DATE"
+            },
+            {
+                "Text": "09/27/2026",
+                "Label": "DATE"
+            },
+            {
+                "Text": "NURSE",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Carriscanny",
+                "Label": "PERSON"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "Republic of the Philippines\nand",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "PROFESSIONAL REGULATION COMMISSION",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "IDENTIFICATION CARD",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "DEL ROSARIO",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "FIRST NAME",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "MARK JOHN\nMIDDLE",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "GARCIA",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "0706993",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "09/08/2011",
+                "Label": "DATE"
+            },
+            {
+                "Text": "12/08/2027",
+                "Label": "DATE"
+            },
+            {
+                "Text": "NURSE",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "23",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Professional Regulation Commission",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "www.prc.gov.ph",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "A. ZAMORA",
+                "Label": "PERSON"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "Republic of the Philippines\nPROFESSIONAL REGULATION COMMISSION\nPROFESSIONAL IDENTIFICATION CARD",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "VASQUEZ",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "FIRST",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "DELLOSA",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "0894523",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "07/05/2017",
+                "Label": "DATE"
+            },
+            {
+                "Text": "12/11/2026",
+                "Label": "DATE"
+            },
+            {
+                "Text": "NURSE",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "#23",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "Professional Regulation Commission",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "www.prc.gov.ph",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "20",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "ZAMORA",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Republic of the Philippines\nProfessional Regulation Commission",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "National Capital",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Region",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "Moravia",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "HENYLIZA L. DARACAN",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "P75.00",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "2024-05-08315033",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "05/13/2024",
+                "Label": "DATE"
+            },
+            {
+                "Text": "JAINAR AGUSTIN",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "05-15-2024",
+                "Label": "DATE"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "REGULATION\nREPUBLIC OF THE PHILIPPINES\nPROFESSIONAL REGULATION COMMISSION\nPROP SECURITY",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "REPUBLIKA",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "PILIPINAS",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "PHIL\nTHE\nApelyido",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "SANUSI\nPangalan",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "AISHA MEDINA\nPanggitnang",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "KASARAL",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "1001838",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "05/24/2024",
+                "Label": "DATE"
+            },
+            {
+                "Text": "07/11/2027",
+                "Label": "DATE"
+            },
+            {
+                "Text": "NURSE",
+                "Label": "LOCATION"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "Republic",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "of",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "the Philippines",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "PROFESSIONAL REGULATION COMMISSION\nPROFESSIONAL IDENTIFICATION CARD",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "MUHAJIL",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "FIRST",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "JENNIFER\nMIDDLE",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "AIDIL",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "0342428",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "10/01/2001",
+                "Label": "DATE"
+            },
+            {
+                "Text": "09/28/2027",
+                "Label": "DATE"
+            },
+            {
+                "Text": "NURSE\nProfessional Regulation Commission",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "www.prc.gov.ph",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "ZAMORA",
+                "Label": "PERSON"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "23\nProfessional Regulation Commission",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "www.prc.gov.ph",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "CHARITO A. ZAMORA",
+                "Label": "PERSON"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "Republic of the Philippines",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "PROFESSIONAL REGULATION COMMISSION",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "LANGI",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "FIRST NAME",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "NORHANA\n16",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "MANIMBAC",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "0988425",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "02/02/2024",
+                "Label": "DATE"
+            },
+            {
+                "Text": "08/12/2027",
+                "Label": "DATE"
+            },
+            {
+                "Text": "NURSE",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "CS\nCamScanner",
+                "Label": "PERSON"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "REGULATION\nREPUBLIC OF THE PHILIPPINES\nSECURITY\nPROFESSIONAL REGULATION COMMISSION\ns\nPROFESSIONAL IDENTIFICATION CARD\nPILIPIHAN\nOF\nSECURITY",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "THE\nApelyido",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "GURO\nPangalan",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "ADAWIYAH\nPanggitnang Apelyido",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "CURO",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "0864889",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "07/21/2015",
+                "Label": "DATE"
+            },
+            {
+                "Text": "05/18/2027",
+                "Label": "DATE"
+            },
+            {
+                "Text": "NURSE",
+                "Label": "LOCATION"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": []
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "EXP",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Government of Ajman\nDepartment of Economic Development\nProfessional",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "4130\nACCI",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "46899",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "201815599",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "DR.ABIR MOHAMAD ZARAB",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "2024-09-05",
+                "Label": "DATE"
+            },
+            {
+                "Text": "1985-09-26",
+                "Label": "DATE"
+            },
+            {
+                "Text": "JUL\nirland",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "PR0202641",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "Palestine",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "ABIR MOHAMAD ZARAB\nawall",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "01,601\nJ.5,\n36",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "NJ2835402",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "United Arab Emirates",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "OBAID MOHAMMED OBAID ALZAABI",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "UAE",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "Activites",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Dental Surgery Clinic\nDental Surgery Clinic",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "ASY",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "1",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "Olgini\nP.O.",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "3ab 105",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "1258",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "2023-12-31",
+                "Label": "DATE"
+            },
+            {
+                "Text": "Jhiles CLASS",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Villa No.",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "105",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "2023-09-16",
+                "Label": "DATE"
+            },
+            {
+                "Text": "Jhey",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "30187899",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "2023-09-16",
+                "Label": "DATE"
+            },
+            {
+                "Text": "www.ajmanded.ae",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "3,59",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "Department of Economic Development",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "www.ajmanded.ae",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "C",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "800 70\n2\n06-7033888",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "R\n06-7033889",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "870\nC",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "info@ajmanded.ae",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "www.ajmanded.ae",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "Ajmanded\nt",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Ajmanded\nf",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Ajmanded",
+                "Label": "PERSON"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "Government",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Ajman\nDepartment of Economic Development\nPartners",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "15,001",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "4130",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "3,112",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "DR",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "ABIR MOHAMAD ZARAB",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "2024-09-05",
+                "Label": "DATE"
+            },
+            {
+                "Text": "1985-09-26",
+                "Label": "DATE"
+            },
+            {
+                "Text": "CUL\ninkenti",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "100.00",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "PR0202641",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "Palestine",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "ABIR MOHAMAD ZARAB",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "awall",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "01,601",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "0.00",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "NJ2835402",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "United Arab Emirates",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "OBAID MOHAMMED OBAID ALZAABI",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "UAE",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "2023-09-16",
+                "Label": "DATE"
+            },
+            {
+                "Text": "www.ajmanded.ae 355y",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "4,500",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "Department of Economic Development",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "www.ajmanded.ae",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "C",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "800 70\nB",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "06-7033888",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "06-7033889",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "870\nC",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "info@ajmanded.ae",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "www.ajmanded.ae",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "D",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Ajmanded\nt",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Ajmanded",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Ajmanded",
+                "Label": "PERSON"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "8 THOUS",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "PAKISTAN NURSING COUNCIL",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "GHAZALA\nNURSE",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "01-10-2013",
+                "Label": "DATE"
+            },
+            {
+                "Text": "30-05-2024",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "A-66666",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "iNG",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "www.pnc.org.pk",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "42401-9834488-8",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "PAKISTAN",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "16-02-1988",
+                "Label": "DATE"
+            },
+            {
+                "Text": "GHAZALA",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "PAKISTAN NURSING COUNCIL",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "1973",
+                "Label": "DATE"
+            },
+            {
+                "Text": "Pakistan Nursing Council",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Pakistan Nursing Council",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "National Institute of Health",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Chak Shehzad",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Islamabad",
+                "Label": "LOCATION"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "PAKISTAN NURSING COUNCIL",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "GHAZALA",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "01-10-2013",
+                "Label": "DATE"
+            },
+            {
+                "Text": "30-05-2025",
+                "Label": "DATE"
+            },
+            {
+                "Text": "-\nA-66852",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "Quil\nDaniel",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "www.pnc.org.pk",
+                "Label": "OTHER"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "R012019012534",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "PHILIP M PHILIP",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Three years and Six months",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "General Nursing",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "School of Nursing",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "St. Martin De Porres Hospital",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Cherukunnu, Kannur",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "September 2010",
+                "Label": "DATE"
+            },
+            {
+                "Text": "March 2014",
+                "Label": "DATE"
+            },
+            {
+                "Text": "Second",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "Class",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "KL01201401316",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "24th\nJune 2014",
+                "Label": "DATE"
+            },
+            {
+                "Text": "24th June 2019",
+                "Label": "DATE"
+            },
+            {
+                "Text": "23rd June 2024",
+                "Label": "DATE"
+            },
+            {
+                "Text": "DR",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "SALEENA SHAH",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "28.11.2019 15:13:09 IST",
+                "Label": "DATE"
+            },
+            {
+                "Text": "Kerala Nurses and Midwives Council",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Dr.",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "SALEENA SHAH",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "0224736",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "Narala Nurses and Midwives",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Red Cross Road\nThiruvananthapuram",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "695035",
+                "Label": "OTHER"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "Hossam Eldin Waguih Abdelmoteleb",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "DataFlow FZ LLC",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "May 04, 2012",
+                "Label": "DATE"
+            },
+            {
+                "Text": "support@dataflowgroup.com",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "H005-VR-12-000000",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "CEO",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Dataflow FZ LLC",
+                "Label": "ORGANIZATION"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "EXP",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Government of Ajman\nDepartment of Economic Development\nProfessional",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "4130\nACCI",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "46899",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "201815599",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "DR.ABIR MOHAMAD ZARAB",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "2024-09-05",
+                "Label": "DATE"
+            },
+            {
+                "Text": "1985-09-26",
+                "Label": "DATE"
+            },
+            {
+                "Text": "JUL\nirland",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "PR0202641",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "Palestine",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "ABIR MOHAMAD ZARAB\nawall",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "01,601\nJ.5,\n36",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "NJ2835402",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "United Arab Emirates",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "OBAID MOHAMMED OBAID ALZAABI",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "UAE",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "Activites",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Dental Surgery Clinic\nDental Surgery Clinic",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "ASY",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "1",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "Olgini\nP.O.",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "3ab 105",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "1258",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "2023-12-31",
+                "Label": "DATE"
+            },
+            {
+                "Text": "Jhiles CLASS",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Villa No.",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "105",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "2023-09-16",
+                "Label": "DATE"
+            },
+            {
+                "Text": "Jhey",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "30187899",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "2023-09-16",
+                "Label": "DATE"
+            },
+            {
+                "Text": "www.ajmanded.ae",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "3,59",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "Department of Economic Development",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "www.ajmanded.ae",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "C",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "800 70\n2\n06-7033888",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "R\n06-7033889",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "870\nC",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "info@ajmanded.ae",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "www.ajmanded.ae",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "Ajmanded\nt",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Ajmanded\nf",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Ajmanded",
+                "Label": "PERSON"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "SUID-AFRIKAANSE POLISIEDIENS",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "SPEURDIENS",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "2018 -04- 2 3",
+                "Label": "DATE"
+            },
+            {
+                "Text": "MIDDELBURG",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "SOUTH AFRICAN POLICE SERVICE\nCompanies and Intelluctual\nProperty Commission",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "CIPC",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "www.cipc.co.za /",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "CIPC",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "CoR21.1",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "5 working days",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "CIPC",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "www.cipc.co.za /",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "first",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "CIPC",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "www.cipc.co.za",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "six months",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "Board of",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "CIPC",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Step 1",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "CIPC",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Step 2",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "CoR135.1complaint@cipc.co.za",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "Step",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "3",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "CIPC",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "CIPC",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Step",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "4",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "CIPC",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "CIPC",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "EK",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "RANG\nMAGGNONNESS",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "7/78187-3",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "RANK\nDes\nNAAM",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "DRUKSKA'F",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "Companies and Intellectual Property Commission",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "South",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Africa",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "PRINT",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "P.O. Box 429, Pretoria, 0001, Republic of South Africa",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "Docex 256, Pretoria",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "086 100 2472",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "www.cipc.co.za",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "2\n0\n1\n5\n2\n5\n7\n2\n5\n8\n9\n2\n8\n1\n0\n0\n3\n5\n3",
+                "Label": "OTHER"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "Companies and intellectual\nProperty Commission",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "COMPANIES AND INTELLECTUAL PROPERTY COMMISSION\nREPUBLIC OF SOUTH AFRICA",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "CoR 14.3 -",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "29/07/2015",
+                "Label": "DATE"
+            },
+            {
+                "Text": "29/07/2015",
+                "Label": "DATE"
+            },
+            {
+                "Text": "ACJTAX",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "928100856\nMM",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "7173181-3",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "RANK",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "Drast\nMPUMACARE MEDICAL SUPPORT (Pty) Ltd",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "2015/257258/07",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "29/07/2015",
+                "Label": "DATE"
+            },
+            {
+                "Text": "AFRIKAANSE",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "2018-06-23",
+                "Label": "DATE"
+            },
+            {
+                "Text": "CIPC\nDETECTIVE\nMIDDELBURG",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "SOUTH AFRICAN POLICE SERVICE",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "each person",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "Companies and Intellectual Property Commission of South Africa",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "P.O. Box 429, Pretoria, 0001, Republic of South Africa",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "Docex 256, Pretoria",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "086 100 2472",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "www.cipc.co.za",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "1\n5",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "0 8",
+                "Label": "OTHER"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "24/02/2022",
+                "Label": "DATE"
+            },
+            {
+                "Text": "15:53",
+                "Label": "DATE"
+            },
+            {
+                "Text": "DREAM SAVERS",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "15:53 Thursday, 24 February 2022",
+                "Label": "DATE"
+            },
+            {
+                "Text": "DREAM SAVERS EYECARE",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "3584687",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "Feb 22, 2022",
+                "Label": "DATE"
+            },
+            {
+                "Text": "PARTNERSHIP\n100",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "ADETOKUNBO ADEMOLA STREET",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "EKO",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "ENTRANCE",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "VICTORIA ISLAND , LAGOS STATE,\nNIGERIA",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "NIL",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "NIL",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "MEETLIZZYDEMS@GMAIL.COM",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "Feb 22, 2023",
+                "Label": "DATE"
+            },
+            {
+                "Text": "Corporate Affairs Commission",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "ABUBAKAR",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "Feb 24, 2022",
+                "Label": "DATE"
+            },
+            {
+                "Text": "1/3",
+                "Label": "OTHER"
+            }
+        ]
+    },
+    {
+        "ProcessedEntities": [
+            {
+                "Text": "CAC",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "CAC",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "CAC",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "CAC",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "CAC",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "CAC",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "CAC",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "CAC",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "CAC",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "CAC",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "CAC",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "RC",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "326,911",
+                "Label": "OTHER"
+            },
+            {
+                "Text": "FEDERAL REPUBLIC OF NIGERIA",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "C\nA\nUFOR HOSPITAL LIMITED",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "MATTERS",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "Abuja",
+                "Label": "LOCATION"
+            },
+            {
+                "Text": "7TH\nday of\nJANUARY",
+                "Label": "DATE"
+            },
+            {
+                "Text": "thousand",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "Nine Hundred",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "NINETY-",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "EIGHT",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "6,100.00K",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "M",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "25,000.00K",
+                "Label": "QUANTITY"
+            },
+            {
+                "Text": "U.",
+                "Label": "ORGANIZATION"
+            },
+            {
+                "Text": "ABDULLAHI",
+                "Label": "PERSON"
+            },
+            {
+                "Text": "CAC",
+                "Label": "OTHER"
+            }
+        ]
+    }
+]
